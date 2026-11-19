@@ -33,10 +33,9 @@ USAGE:-
 
 2. Dashboard Exploration: Open Power BI Desktop and load .pbix files from reports/ to interact with the ore-built dashboards.
 
-3. CONTRIBUTING:-
-4. -----------------------
-5. Contributions are welcome! Fork the repository and submit a pull request with your enhancements .
-6. 
+CONTRIBUTING:-
+-----------------------
+Contributions are welcome! Fork the repository and submit a pull request with your enhancements.
 
 
 
